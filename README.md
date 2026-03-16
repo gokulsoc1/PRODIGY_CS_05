@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+# PRODIGY_CS_05
 #  Network Packet Analyzer (Python GUI)
 
 The **Network Packet Analyzer** is a Python-based desktop application that captures and analyzes network packets in real time. It provides a graphical user interface (GUI) built with **Tkinter** that allows users to monitor incoming and outgoing packets on their system.
